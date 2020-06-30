@@ -28,9 +28,9 @@ linkedin_username: mtl-dinh
 github_username:  mtldinh
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote-theme: knhash/Pudhina
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
