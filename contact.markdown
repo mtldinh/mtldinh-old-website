@@ -1,5 +1,6 @@
+---
 layout: page
-title: "Contact"
+title: Contact
 permalink: /contact/
-
-Contact me at mldinh2@ncsu.edu or mtl.dinh@gmail.com.
+---
+Contact me on LinkedIn or email. School account is mldinh2@ncsu.edu and personal email is mtl.dinh@gmail.com
