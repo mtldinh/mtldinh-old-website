@@ -28,7 +28,8 @@
 #github_username:  mtldinh
 # Site settings
 title: Minh-Thu Dinh
-description: 
+description: >
+An electrical engineering student interested in technical theatre, intersectional feminism, and Western animation.
 
 baseurl: "/home" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
