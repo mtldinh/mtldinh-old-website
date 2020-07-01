@@ -5,11 +5,10 @@ subtitle: Who am I?
 ---
 <p style="text-align: center;">
 <br>
-<br>
 <strong>Name:</strong> Minh-Thu Dinh<br>
 <strong>Age:</strong> 19<br>
 <strong>Pronouns:</strong> she/her/hers<br>
-<strong>Occupation:</strong> Student at NC State University<br>
+<strong>Occupation:</strong> Electrical Engineering Student at NC State University<br>
 <strong>Instruments played:</strong> Guitar, ukulele, trumpet<br>
 <strong>Career goal:</strong> A profession that integrates the humanity of theatre
 <br> with the technical skills of engineering!<br>
