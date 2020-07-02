@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle:
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -22,7 +22,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
+North Carolina State University <span style="float: right; ">Duration</span>  
 **Course**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
 
