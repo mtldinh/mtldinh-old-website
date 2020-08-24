@@ -73,7 +73,7 @@ subtitle:
 <form action="https://formspree.io/xeqrwnpw" method="POST">
 <div class="circle"></div>
       <div class="form-inner">
-        <h1>Contact Me</h1>
+        <h1><strong>Contact Me</strong></h1>
         <input type="text" placeholder="Name" name="name">
         <input type="email" placeholder="Email" name="_replyto">
         <textarea placeholder="Message..." name="message" rows="5"></textarea>
