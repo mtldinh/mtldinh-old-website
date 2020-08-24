@@ -3,8 +3,9 @@ layout: page
 title: Contact
 subtitle:
 ---
-
-<br>
+<!DOCTYPE html>
+<html>
+  <head>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <style>
       * {
@@ -100,3 +101,4 @@ subtitle:
       </div>
     </form>
   </body>
+</html>
