@@ -7,7 +7,7 @@ subtitle:
   <head>
     <style>
       * {
-      box-sizing: border-box;
+      box-sizing: content-box;
       }
       html, body {
       min-height: 100vh;
@@ -30,6 +30,7 @@ subtitle:
       margin-top: 0;
       font-weight: 500;
       }
+
       form {
       position: relative;
       width: 100%;
@@ -85,7 +86,7 @@ subtitle:
     </style>
   </head>
   <body>
-<form action="https://formspree.io/maypkjgq" method="POST">
+<form action="https://formspree.io/xeqrwnpw" method="POST">
 <div class="circle"></div>
       <div class="form-inner">
         <h1>Contact Me</h1>
