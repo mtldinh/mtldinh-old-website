@@ -80,7 +80,7 @@ subtitle:
       }
       @media (min-width: 568px) {
       form {
-      width: 60%;
+
       }
       }
     </style>
