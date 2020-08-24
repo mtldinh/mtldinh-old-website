@@ -9,23 +9,7 @@ subtitle:
       * {
       box-sizing: content-box;
       }
-      html, body {
-      min-height: 100vh;
-      padding: 0;
-      margin: 0;
-      font-size: 14px;
-      color: #000000;
-      }
-      input, textarea {
-      outline: none;
-      }
-      body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 20px;
-      background: #FFFFFF;
-      }
+    
       h1 {
       margin-top: 0;
       font-weight: 500;
