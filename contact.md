@@ -5,11 +5,6 @@ subtitle:
 ---
 
 <br>
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Contact Us</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <style>
       * {
@@ -95,14 +90,13 @@ subtitle:
 <form action="https://formspree.io/maypkjgq" method="POST">
 <div class="circle"></div>
       <div class="form-inner">
-        <h1>CONTACT US</h1>
+        <h1>CONTACT ME</h1>
         <input type="text" placeholder="Name" name="name">
         <input type="email" placeholder="Email" name="_replyto">
         <textarea placeholder="Message..." name="message" rows="5"></textarea>
-        <input type="hidden" name="_next" value="ncstatevsa.org" />
+        <input type="hidden" name="_next" />
         <button type="submit" href="/">Submit</button>
 
       </div>
     </form>
   </body>
-</html>
