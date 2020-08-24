@@ -19,8 +19,8 @@ dream job is becoming a theatre engineer or electric designer for a large theatr
 with my electrical concepts!</p>
 <br>
 <p>I am also an active member of local Asian American communal spaces. I've previously
-served as an executive board member for two Asian organizations, focusing on
-cultural event organization.
+served as an executive board member for two Asian organizations, with a focus on cultural
+event planning and technical execution.
 Through these orgs, I've learned multitudes about teamwork, collaboration, and
 cultural passion. Right now, I am interning at
 <a href="https://www.ncaatogether.org">North Carolina Asian Americans Together</a> (NCAAT)
