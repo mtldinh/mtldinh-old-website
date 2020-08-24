@@ -88,7 +88,7 @@ subtitle:
 <form action="https://formspree.io/maypkjgq" method="POST">
 <div class="circle"></div>
       <div class="form-inner">
-        <h1>CONTACT ME</h1>
+        <h1>Contact Me</h1>
         <input type="text" placeholder="Name" name="name">
         <input type="email" placeholder="Email" name="_replyto">
         <textarea placeholder="Message..." name="message" rows="5"></textarea>
