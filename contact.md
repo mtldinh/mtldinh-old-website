@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Contact
+#title: Contact
 subtitle:
 ---
-<!DOCTYPE html>
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <style>
       * {
       box-sizing: border-box;
@@ -15,7 +13,6 @@ subtitle:
       min-height: 100vh;
       padding: 0;
       margin: 0;
-      font-family: Roboto, Arial, sans-serif;
       font-size: 14px;
       color: #000000;
       }
