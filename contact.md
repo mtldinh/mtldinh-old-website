@@ -32,7 +32,7 @@ subtitle:
       }
       form {
       position: relative;
-      width: 80%;
+      width: 100%;
       border-radius: 30px;
       background: #fff;
       }
