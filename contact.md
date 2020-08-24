@@ -7,9 +7,9 @@ subtitle:
   <head>
     <style>
       * {
-      box-sizing: content-box;
+      box-sizing: border-box;
       }
-    
+
       h1 {
       margin-top: 0;
       font-weight: 500;
