@@ -25,8 +25,8 @@ Through these orgs, I've learned multitudes about teamwork, collaboration, and
 cultural passion. Right now, I am interning at
 <a href="https://www.ncaatogether.org">North Carolina Asian Americans Together</a> (NCAAT)
 and the
-<a href="https://www.pivotnetwork.org">Progressive Vietnamese American Organization</a>
-(PIVOT) as a 2020 voter engagement fellow.</p>
+<!-- <a href="https://www.pivotnetwork.org">Progressive Vietnamese American Organization</a>
+(PIVOT) --> as a 2020 voter engagement intern.</p>
 <br>
 <p>In my free time, I love to learn web development, play the ukulele, stare at UX designs,
 and watch <a href="https://www.youtube.com/playlist?list=PL5vtqDuUM1Dl67yQPW2HmHHLTfT8S4-Th">drawing challenge videos</a> on YouTube.</p>
